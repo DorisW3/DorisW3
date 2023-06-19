@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently learing html, CSS and Javascript and other necessary applications in a bootcamp for Web-Development. My last activity was in a chemical company, because i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really exited to become a junior web-developer.
 
-[carmague]([image](https://github.com/DorisW3/DorisW3/assets/135646413/18b5cb5d-fcb5-4a37-9ceb-50ac46bf4554)
+[carmague](!https://github.com/DorisW3/DorisW3/assets/135646413/18b5cb5d-fcb5-4a37-9ceb-50ac46bf4554)
 
 
 
