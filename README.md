@@ -17,13 +17,26 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning html, CSS and Javascript and other necessary applications in a bootcamp for Web-Development.<br/> My last activity was in a chemical company, because i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really exited to become a junior web-developer!<br/>
 
-<br/>
-![carmague landcape with two carmague horses](https://github.com/DorisW3/DorisW3/assets/135646413/1d02e03c-7cad-4781-b054-1f113989a1cc)
+Below you can see which skills i am about to learn...
+
+<h3>Languages</h3>
+<a href=""><img width="40px" src="https://github.com/DorisW3/DorisW3/assets/135646413/a65a376c-9369-438f-a22c-c0ecb4db167b" alt="JavaScript"></a>
+
+<h3>Library</h3>
+<a href=""><img width="40px" src="https://github.com/DorisW3/DorisW3/assets/135646413/359af995-3681-4483-9091-181c2d59e8c4" alt="React"></a>
 
 
 
-### 
 
 
-<h3 align="left">I am currently reading:</h3>
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=<ID you noted down>" alt="GoodReads reading" width="350" /></a>
+
+
+
+### Technical books
+
+
+<p align="left">I am currently reading following technical books to improve my skills:</p>
+
+- HTML und CSS für Einsteiger - Der leichte Weg zur eigenen Webseite, by Paul Fuchs
+- JavaScript Kopendium, by Daniel Herken
+
