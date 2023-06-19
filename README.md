@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**DorisW3/DorisW3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DorisW3/DorisW3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -16,3 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hey everyone!
+
+I'm currently learing html, CSS and Javascript and other necessary applications in a bootcamp for Web-Development. My last activity was in a chemical company, because i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really exited to become a junior web-developer.
+
+
+
