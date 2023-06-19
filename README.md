@@ -20,7 +20,7 @@ If you like, ask me about the following picture:
 <img src="https://github.com/DorisW3/DorisW3/assets/135646413/18b5cb5d-fcb5-4a37-9ceb-50ac46bf4554 alt="..." width="...px" height="...px">
 
 
-## Vaccation destinations:
+### Vaccation destinations:
 - Edinburgh - Scotland
 - New York - U.S.
 - Washington - U.S.
