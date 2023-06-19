@@ -26,8 +26,7 @@ If you like, ask me about the following picture:<br>
 - New York - U.S.
 - Washington - U.S.
 - Atlantic City - U.S.
-- Kreta - Greece
+- Crete - Greece
 - Carmague - France
-
 
 
