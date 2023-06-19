@@ -30,3 +30,5 @@ If you like, ask me about the following picture:<br>
 - Carmague - France
 
 
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=<ID you noted down>" alt="GoodReads reading" width="350" /></a>
