@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey everyone!
+# Hey everyone!  <img align="right" width="200px" src="https://github.com/DorisW3/DorisW3/assets/135646413/f25987f4-b969-44dc-b2c9-1775fcdee74e" alt="Github Logo">
 
 🌱 I’m currently learning html, CSS and Javascript and other necessary applications in a bootcamp for Web-Development.<br/> My last activity was in a chemical company; i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really exited to become a junior web-developer! <img width="18px" src="https://github.com/DorisW3/DorisW3/assets/135646413/c9d66bfe-7267-4a3e-819b-a52618d7f91e" alt="Crab"><br/>
 
