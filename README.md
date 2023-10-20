@@ -19,7 +19,7 @@ I am a Web-Developer certified by neue fische - school and pool for digital tale
 
 - 👯 I’m looking to collaborate on new projects. Feel free to contact me if you are interested.
 
-🌱 I’m currently deepening my knowledge of html, CSS and Javascript and other necessary applications.<br/> My last activity was in a chemical company; i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really exited to become a junior web-developer! <img width="18px" src="https://github.com/DorisW3/DorisW3/assets/135646413/c9d66bfe-7267-4a3e-819b-a52618d7f91e" alt="Crab"><br/>
+🌱 I’m currently deepening my knowledge of html, CSS and Javascript and other necessary applications.<br/> My last activity was in a chemical company; i studied Chemistry (B. of Sc.). Then i decided to change to a new professional field, and now i am really excited to work as a junior web developer! <img width="18px" src="https://github.com/DorisW3/DorisW3/assets/135646413/c9d66bfe-7267-4a3e-819b-a52618d7f91e" alt="Crab"><br/>
 
 Below you can see which skills i am about to learn...
 
